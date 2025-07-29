@@ -9,3 +9,5 @@ pytest
 pytest-asyncio
 PyYAML
 requests
+python-dotenv
+numpy

@@ -37,7 +37,7 @@ redis:
   port: 6379
   db: 0
 
-current_llm_service: "openai"
+current_llm_service: "groq"
 use_json_cache: true
-use_mongo_cache: true
-cache_max_size: 3
+use_mongo_cache: false
+cache_max_size: 5
